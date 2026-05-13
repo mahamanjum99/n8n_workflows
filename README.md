@@ -67,3 +67,14 @@ n8n is a powerful **workflow automation tool** that allows you to connect APIs, 
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/n8n-workflows.git
+
+2.Open n8n dashboard
+3.Import workflow JSON:
+4.Click Import Workflow
+5.Select .json file from repo
+6.Configure credentials:
+Email SMTP
+Google Sheets API
+MySQL connection
+API keys
+7.Activate workflow and run
